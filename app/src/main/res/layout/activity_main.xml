@@ -12,6 +12,7 @@
         android:layout_height="match_parent"
         android:id="@+id/item_recycler_view"
         android:background="@color/orange"
+        android:paddingBottom="4dp"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         />
